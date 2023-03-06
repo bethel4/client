@@ -1,0 +1,5 @@
+export const GET_MUSIC = 'GET_MUSIC'
+export const GET_USER_BY_ID = 'GET_USER_BYid'
+export const CREATE_MUSIC = 'CREATE_MUSIC'
+export const UPDATE_MUSIC_BY_ID = 'UPDATE_MUSIC_BYid'
+export const DELETE_MUSIC_BY_ID = 'DELETE_MUSIC_BYid'
